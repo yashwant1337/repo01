@@ -1,1 +1,1 @@
-This is original FileB.
+This is FileB version 1
